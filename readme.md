@@ -9,7 +9,7 @@ A web application I made for our college's ping pong tournament helps keep count
 
 ## Screenshot
 
-![mainPage](https://github.com/varun-jayakumar/Plain-Language-Detector/blob/main/screenshots/mainPage.jpg?raw=true)
+![mainPage](https://github.com/varun-jayakumar/plain-score-keeper/blob/main/screenshots/mainPage.jpg?raw=true)
 
 Thanks for Reading!
 
